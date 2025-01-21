@@ -8,7 +8,7 @@
 
 ## Description
 
-Comparing Artificial Neural Networks Feed‑Forward and an Optimal Estimator on a Regression case.
+Comparing Artificial Neural Networks Feed‑Forward and an Optimal Estimator on a Regression case. The dataset used consists of measurements of atmospheric humidity, temperature, and pressure.
 
 ## Objective
 
